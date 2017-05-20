@@ -1,0 +1,14 @@
+aah SI es una subsecuencia de arash
+aah NO es una subsecuencia de arash
+hsh NO es una subsecuencia de arash
+ada NO es una subsecuencia de arash
+a NO es una subsecuencia de A
+b31 SI es una subsecuencia de a12340b
+b31 NO es una subsecuencia de a12340b
+kkc NO es una subsecuencia de kick
+1234 SI es una subsecuencia de 123456
+1234 NO es una subsecuencia de 123456
+12341 NO es una subsecuencia de 123456
+6321 SI es una subsecuencia de 123456
+6321 NO es una subsecuencia de 123456
+63216 NO es una subsecuencia de 123456
